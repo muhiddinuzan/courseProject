@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: azure;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.courseAddbutton {
+    background-color: rgb(42, 72, 102);
+    padding: 5px 5px;
+    border-radius: 5px;
+}
